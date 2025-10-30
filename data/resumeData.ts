@@ -2,8 +2,8 @@ import { ResumeData } from '../types';
 
 export const resumeData: ResumeData = {
   name: "Shawn Amalemba",
-  tagline: "Computer Forensics Analyst | Digital Evidence Specialist | Incident Responder",
-  photoUrl: "https://picsum.photos/400/400?grayscale",
+  tagline: "Computer Forensics Analyst | Malware analysis | Data Recovery ",
+  photoUrl: "1.png",
   professionalStatement: `A dedicated and highly skilled Computer Forensics Analyst with proven expertise in digital forensic investigations, evidence preservation, incident response, and malware analysis. Proficient in utilizing industry-standard tools and techniques to uncover digital evidence, reconstruct events, and prepare comprehensive reports for legal and organizational needs. Committed to upholding strict ethical and legal standards in all forensic activities.`,
   education: [
     {
